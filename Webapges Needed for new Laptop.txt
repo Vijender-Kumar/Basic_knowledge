@@ -1,0 +1,14 @@
+Vickybirhman- da....
+1 page:	https://aws.amazon.com/console/ , https://mail.google.com/mail/u/0/?ogbl#inbox
+2 page: https://developers.kudosfinance.in/reference/loan-status-check-1 (loan status links for Swagger, YAML, JSON)
+
+Vijbirhman- H....N..@.9.4
+1 page: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html , https://aws.amazon.com/blogs/compute/ingesting-mongodb-atlas-data-using-amazon-eventbridge/ ,https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/sqs-examples-send-receive-messages.html
+2 page: https://docs.aws.amazon.com/lambda/latest/dg/nodejs-package.html , https://stackoverflow.com/questions/2063616/how-to-reference-a-yaml-setting-from-elsewhere-in-the-same-yaml-file
+3 page: https://www.mongodb.com/developer/products/atlas/serverless-development-lambda-atlas/#connecting-mongodb-atlas-to-aws-lambda , https://account.mongodb.com/account/login?n=%2Fv2%2F62a81cbaf2aa8c34959ea698%23clusters%2Fdetail%2FAWS-lambda-v1 , https://github.com/aws-amplify/amplify-cli/issues/3915
+4 Page: https://www.youtube.com/watch?v=Zzx3xxR82hQ , https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+
+Microsoft Edge - vij.kum@!arthmate
+1 Page: \https://mail.google.com/mail/u/0/#inbox, https://docs.google.com/spreadsheets/d/1YBbSsBZrUDVYkcNpmuDDKTvSVuyhE7mmpVU1rkZMWsQ/edit#gid=1678922190 , https://editor.swagger.io/  (Changes done as per the Elaap LOS API --> Lending API sheet( Changes are the foramt of input in post with Lending API)) 
+2 Page: https://heynode.com/tutorial/readwrite-json-files-nodejs/
+

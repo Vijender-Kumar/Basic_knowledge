@@ -1,0 +1,17 @@
+to check the status of the servers in VS Code 
+netstat -ano | findstr :5000
+
+to kill the running port in VS Code
+tskill typeyourPIDhere 
+
+to exit any process
+CTRL + C
+
+to find content from file
+CTRL+F
+
+to find any file from project
+CTRL+P
+
+to find any content from whole project
+CTRL+SHIFT+F

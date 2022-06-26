@@ -1,0 +1,38 @@
+Node Js(Code with Harry): Basic of Node Js with packages and many other info:
+https://youtu.be/BLl32FvcdVM
+Playlist of javascript:
+https://youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL
+Playlist of Harry's different techs:
+https://www.youtube.com/c/CodeWithHarry/playlists
+
+
+Complete restful API with node.js , express.js and mongoDB in Hindi : SBS online classes
+https://youtube.com/playlist?list=PLgWjD_CBfh0ACkCyg5Kjk0mh2Mcc-sZa3
+
+
+SQS Using Node Js - Send, Receive And Delete data
+https://youtu.be/EKaklEUB_yA
+
+
+Spring Boot Tutorial in Hindi
+https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q
+
+
+How to read JSON data in Spring Boot and write to a database
+https://youtu.be/rGdKmF2UzSc
+
+
+Create SPRING BOOT REST API with MONGODB and Test it with Postman
+https://youtu.be/e6NE64UFPNs
+
+
+For Basic JAVA coding knowledge
+https://www.youtube.com/c/LearnCodingOfficial/playlists
+
+
+Eclipse and Java - Using the Debugger - Lesson 1
+https://youtu.be/pYvYSOLPoPE
+
+
+JAVA complete placement course(By Shradha):
+https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop

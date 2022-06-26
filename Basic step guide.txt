@@ -1,0 +1,22 @@
+Steps followed:
+ 1. Project clone - import after cloning
+ 2. open properties in resources change password of the root user and run the application as Springboot application( the db will be updated in SQL workbench application).
+
+============================================================
+in Eclipse
+	if not working go check in the peroperties --> builder // second thing is go update maven .
+	third open the project with spring tool suite 4(present in downloads)
+
+============================================================
+in cmd use command :
+	cd eclipse(press tab you will get name search for eclipse-workspace) then enter
+	git clone URL then enter the project will be cloned at this path only.
+
+=================================================================
+open mysql workbench:
+	open schemas(right to administration) then click right -- enter the schema name(as per URL i.e. arthmate_loanrequest) --> apply 
+
+
+================================================================
+Requirement:
+	1. download git, MYSQL workbench, ECLIPSE IDE(MAVEN and SPRINGBOOT PLUGINS)(I downloaded springtools suite 4 it also work as IDE)import the project as required) and download(install java too) set environment variable path).

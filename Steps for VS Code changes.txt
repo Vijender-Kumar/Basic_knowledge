@@ -1,0 +1,6 @@
+After downloading the code from git --> 
+Open the code in VS Code -->
+Full code in explorer --> If needed create a branch in the code(by going in the left side of VS Code screen there is sign of master branch -->
+Click on that then create or click on the branch you need to work on -->
+Sync/refresh the code by clicking on right side of that branches section on synchronize button(This will push and pull the changes in the code automaticallyon remote side) -->
+We will get all the new changes in that branch and code as well.
