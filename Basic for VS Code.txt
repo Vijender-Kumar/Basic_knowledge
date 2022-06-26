@@ -1,3 +1,5 @@
+//This file is having shortcuts of the VS Code which are useful//
+
 to check the status of the servers in VS Code 
 netstat -ano | findstr :5000
 
